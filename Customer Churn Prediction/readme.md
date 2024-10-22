@@ -60,6 +60,3 @@ The dataset contains the following attributes:
 - Matplotlib
 - Jupyter Notebook
 
----
-
-Feel free to tweak this description based on any additional specifics from your project!
